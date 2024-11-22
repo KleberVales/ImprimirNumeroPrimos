@@ -10,3 +10,9 @@ O problema envolve a criação de uma classe chamada Prime que possui um único 
 2. Restrições:
    - Não utilize sobrecarga de métodos (overloading).
    - O método deve lidar com entradas de até cinco números inteiros.
+  
+3. Entrada:
+   - Cinco linhas, cada uma contendo um número inteiro.
+  
+4. Saída:
+   - Quatro linhas de saída, cada uma contendo os números primos correspondentes aos parâmetros passados ao método checkPrime na respectiva chamada.
