@@ -18,10 +18,10 @@ O problema envolve a criação de uma classe chamada Prime que possui um único 
    - Quatro linhas de saída, cada uma contendo os números primos correspondentes aos parâmetros passados ao método checkPrime na respectiva chamada.
    - Caso não haja números primos, a linha correspondente deve estar vazia.
   
-5. Exemplo de Entrada e Saída: Entrada:
+5. Exemplo de Entrada e Saída: Entrada:\
    ![imagens/img1.png](imagens/img1.png)
 
-   Saída:
+   Saída:\
    ![imagens/img2.png](imagens/img2.png)
 
 
